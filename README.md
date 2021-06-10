@@ -18,12 +18,12 @@
 
 ## :open_file_folder: My latest projects
 
-:speedboat: &nbsp; [Amsterdam Boat Ride - The Game!](https://github.com/camilamboaventura/game-project) 
+[Amsterdam Boat Ride - The Game!](https://github.com/camilamboaventura/game-project) &nbsp; :speedboat:
 <br />
-:movie_camera: &nbsp; [MovieJunkie](https://github.com/camilamboaventura/MovieJunkie)
+[MovieJunkie](https://github.com/camilamboaventura/MovieJunkie) &nbsp; :movie_camera:
 <br />
-:syringe: &nbsp; [Intermed](https://github.com/ialmeidapb/intermed-client-MERN)  
-
+[Intermed](https://github.com/ialmeidapb/intermed-client-MERN) &nbsp; :syringe: 
+<br />
 
 <p align="left">
 <a href="https://github.com/camilamboaventura">
