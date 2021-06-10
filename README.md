@@ -13,15 +13,16 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/> 
 
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
 ![](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white) ![Github](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)
 
 
 ## :open_file_folder: My latest projects
 
 * [Amsterdam Boat Ride - The Game!](https://github.com/camilamboaventura/game-project) &nbsp; :speedboat:
-<br />
+
 * [MovieJunkie](https://github.com/camilamboaventura/MovieJunkie) &nbsp; :movie_camera:
-<br />
+
 * [Intermed](https://github.com/ialmeidapb/intermed-client-MERN) &nbsp; :syringe: 
 <br />
 
