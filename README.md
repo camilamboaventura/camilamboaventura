@@ -24,7 +24,6 @@
 * [MovieJunkie](https://github.com/camilamboaventura/MovieJunkie) &nbsp; :movie_camera:
 
 * [Intermed](https://github.com/ialmeidapb/intermed-client-MERN) &nbsp; :syringe: 
-<br />
 
 
 ## :chart_with_upwards_trend: My Rates
