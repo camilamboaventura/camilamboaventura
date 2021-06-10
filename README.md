@@ -18,9 +18,9 @@
 
 ## :open_file_folder: My latest projects
 
-:heavy_check_mark: [Amsterdam Boat Ride - The Game!](https://github.com/camilamboaventura/game-project) <br />
-:heavy_check_mark: [MovieJunkie](https://github.com/camilamboaventura/MovieJunkie) <br />
-:heavy_check_mark: [Intermed](https://github.com/ialmeidapb/intermed-client-MERN) <img src="https://media.giphy.com/media/x3HKrmEvi6XGM0qk27/giphy.gif" width="40px"> <br />
+:speedboat: [Amsterdam Boat Ride - The Game!](https://github.com/camilamboaventura/game-project) <br />
+:movie_camera: [MovieJunkie](https://github.com/camilamboaventura/MovieJunkie) <br />
+:syringe: <br /> [Intermed](https://github.com/ialmeidapb/intermed-client-MERN)  <br />
 
 
 <p align="left">
