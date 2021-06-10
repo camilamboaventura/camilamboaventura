@@ -18,13 +18,15 @@
 
 ## :open_file_folder: My latest projects
 
-[Amsterdam Boat Ride - The Game!](https://github.com/camilamboaventura/game-project) &nbsp; :speedboat:
+* [Amsterdam Boat Ride - The Game!](https://github.com/camilamboaventura/game-project) &nbsp; :speedboat:
 <br />
-[MovieJunkie](https://github.com/camilamboaventura/MovieJunkie) &nbsp; :movie_camera:
+* [MovieJunkie](https://github.com/camilamboaventura/MovieJunkie) &nbsp; :movie_camera:
 <br />
-[Intermed](https://github.com/ialmeidapb/intermed-client-MERN) &nbsp; :syringe: 
+* [Intermed](https://github.com/ialmeidapb/intermed-client-MERN) &nbsp; :syringe: 
 <br />
 
+
+## :chart_with_upwards_trend: My Rates
 <p align="left">
 <a href="https://github.com/camilamboaventura">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=camilamboaventura&count_private=true&show_icons=true"/>
